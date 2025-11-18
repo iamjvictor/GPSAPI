@@ -1,0 +1,9 @@
+{
+  "session_id": "S456",
+  "athletes": [
+    { "id": "A123", "name": "John Player" }
+  ],
+  "metrics": [
+    { "athlete_id": "A123", "speed_mps": 7.1, "distance_m": 1200, "max_speed_mps": 9.4, "timestamp": "2025-11-17T12:05:00Z" }
+  ]
+}

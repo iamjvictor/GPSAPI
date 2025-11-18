@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "deno": "^2.5.6",
+    "supabase": "^2.58.5"
+  }
+}
