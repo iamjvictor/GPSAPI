@@ -1,0 +1,12 @@
+{
+  "metrics": [
+    {
+      "athlete_id": "A123",
+      "session_id": "S456",
+      "speed_mps": 6.2,
+      "distance_m": 1500,
+      "max_speed_mps": 8.9,
+      "timestamp": "2025-11-17T12:00:00Z"
+    }
+  ]
+}
